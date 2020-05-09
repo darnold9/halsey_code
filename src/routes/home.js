@@ -3,7 +3,7 @@ import "../styles/home.css";
 
 const Home = () => (
   <>
-    <h1>Welcome to AR Controller Technologies</h1>
+    <h1>MWUAHHAHHAHAH</h1>
     <img
       alt="Hero"
       className="hero"
